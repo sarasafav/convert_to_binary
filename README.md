@@ -1,2 +1,2 @@
 # convert_to_binary
-save in binary format C#
+In this C# application, the data can be saved in binary formats.
